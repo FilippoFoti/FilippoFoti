@@ -43,13 +43,13 @@ Here are some ideas to get you started:
         <img width="8.1%" height="8.1%" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed">
         <img width="8%" height="8%" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png">&nbsp;
         <img width="7.6%" height="8%" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png">&nbsp;
-        <img width="7.5%" height="6.6%" src="https://github.com/FilippoFoti/FilippoFoti/assets/119434401/465e57fc-d92b-477b-84b3-7ac34c83f0bd">&nbsp;
-        <img width="7.5%" height="6.6%" src="https://github.com/FilippoFoti/FilippoFoti/assets/119434401/7bce3f65-48f2-4d6a-a19f-17ec3fc040bc">&nbsp;
-        <img width="7.6%" height="6.9%" src="https://github.com/FilippoFoti/FilippoFoti/assets/119434401/6cb01491-8e1b-4079-9d1e-49264c4a22c7">&nbsp;
-        <img width="7.5%" height="6.6%" src="https://github.com/FilippoFoti/FilippoFoti/assets/119434401/7867daa4-2841-412a-b325-3b04b25bf880">&nbsp;
-        <img width="7.5%" height="6.6%" src="https://github.com/FilippoFoti/FilippoFoti/assets/119434401/e13d04eb-540d-4eec-b4f6-f21a69d4639a">&nbsp;
-        <img width="7.7%" height="6.6%" src="https://github.com/FilippoFoti/FilippoFoti/assets/119434401/e5a8175f-0eea-4a44-ba14-32f7288d7ae7">&nbsp;
-        <img width="7.7%" height="6.3%" src="https://github.com/FilippoFoti/FilippoFoti/assets/119434401/4491af8a-2664-43fd-9bde-7fc1d8718b90">
+        <img width="7.6%" height="6.6%" src="https://github.com/FilippoFoti/FilippoFoti/assets/119434401/465e57fc-d92b-477b-84b3-7ac34c83f0bd">&nbsp;
+        <img width="7.6%" height="6.6%" src="https://github.com/FilippoFoti/FilippoFoti/assets/119434401/7bce3f65-48f2-4d6a-a19f-17ec3fc040bc">&nbsp;
+        <img width="7.7%" height="6.9%" src="https://github.com/FilippoFoti/FilippoFoti/assets/119434401/6cb01491-8e1b-4079-9d1e-49264c4a22c7">&nbsp;
+        <img width="7.6%" height="6.6%" src="https://github.com/FilippoFoti/FilippoFoti/assets/119434401/7867daa4-2841-412a-b325-3b04b25bf880">&nbsp;
+        <img width="7.6%" height="6.6%" src="https://github.com/FilippoFoti/FilippoFoti/assets/119434401/e13d04eb-540d-4eec-b4f6-f21a69d4639a">&nbsp;
+        <img width="7.8%" height="6.6%" src="https://github.com/FilippoFoti/FilippoFoti/assets/119434401/e5a8175f-0eea-4a44-ba14-32f7288d7ae7">&nbsp;
+        <img width="7.8%" height="6.3%" src="https://github.com/FilippoFoti/FilippoFoti/assets/119434401/4491af8a-2664-43fd-9bde-7fc1d8718b90">
       </td>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippofoti&layout=compact&langs_count=20&title_color=5ce1e6&text_color=000000&hide_border=true" alt="TopLanguage">
