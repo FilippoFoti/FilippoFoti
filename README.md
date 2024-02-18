@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 - 📬 How to reach me: ***`filippofotidev@gmail.com`***
 - 📂 All of my projects are available at ***[GitHub Repository](https://github.com/FilippoFoti?tab=repositories)***
 - 📑 Know about my experiences ***[Curriculum Vitae](https://github.com/FilippoFoti/FilippoFoti/files/14319609/CV.Filippo.Foti.pdf)***
-- 📲 My social <a href="https://www.instagram.com/pippofoti/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/filippo-foti-dev/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="https://x.com/Fulippu_?t=ZcAHrrattvkHMbtGpbA4EA&s=08"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+- 📲 My social <a href="https://www.instagram.com/pippofoti/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/filippo-foti-dev/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+<a href="https://x.com/Fulippu_?t=ZcAHrrattvkHMbtGpbA4EA&s=08" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 
 ## ⚙️ Languages and Tools 🛠️
