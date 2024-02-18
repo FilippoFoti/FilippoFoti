@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <tr>
       <td width="65%">
         <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,vue,php,mysql,laravel,react,next" alt="Languages">
-        <img src="https://skillicons.dev/icons?i=vite,postman,vscode,discord,figma,git,github,gmail,powershell,atom" alt="Tools">
+        <img src="https://skillicons.dev/icons?i=vite,postman,vscode,discord,figma,git,github,gmail,powershell,atom" alt="Tools">&nbsp;
       </td>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippofoti&layout=compact&langs_count=20&title_color=5ce1e6&text_color=000000&hide_border=true" alt="TopLanguage">
